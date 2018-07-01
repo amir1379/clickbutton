@@ -10,3 +10,6 @@ Madeline Proto Source Code For Host
 > Open the url to run the Madeline installation script:
 >
 > https://YourSite.com/index.php
+
+----
+> [Channel](https://t.me/madelinelearn)
